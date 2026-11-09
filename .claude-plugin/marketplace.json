@@ -1,0 +1,13 @@
+{
+  "name": "ship-checklist",
+  "owner": { "name": "Zenith", "url": "https://github.com/AbrasiveUnit" },
+  "metadata": { "description": "Ship checklist skills for Claude Code" },
+  "plugins": [
+    {
+      "name": "ship-checklist",
+      "source": "./",
+      "description": "SEO, security and production-readiness checklist for anything you ship, built for vibe coders and client work.",
+      "version": "1.0.0"
+    }
+  ]
+}

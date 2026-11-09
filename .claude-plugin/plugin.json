@@ -1,0 +1,10 @@
+{
+  "name": "ship-checklist",
+  "version": "1.0.0",
+  "description": "The checklist a project passes before it ships: SEO (19 checks), security (14 checks incl. tracking-pixel consent) and production readiness (111 backend topics plus layered tests). Every line ends Pass with evidence, N/A with a reason, or an owner action.",
+  "author": { "name": "Zenith", "url": "https://github.com/AbrasiveUnit" },
+  "homepage": "https://github.com/AbrasiveUnit/ship-checklist",
+  "repository": "https://github.com/AbrasiveUnit/ship-checklist",
+  "license": "MIT",
+  "keywords": ["checklist", "security", "seo", "production-readiness", "launch", "vibe-coding", "skills"]
+}
