@@ -7,7 +7,7 @@
       "name": "ship-checklist",
       "source": "./",
       "description": "SEO, security and production-readiness checklist for anything you ship, built for vibe coders and client work.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ]
 }

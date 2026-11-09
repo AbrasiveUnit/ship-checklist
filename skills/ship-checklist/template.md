@@ -73,6 +73,15 @@ Status is one of: **Pass** (with evidence) · **N/A: reason** (X lines add the t
 | O2 | Named metrics, alerts reach a named person | A M J | | |
 | O3 | SLI, SLO, error budget written | A M | | |
 | O4 | On call named, RUNBOOK first moves, postmortem rule, chaos drill | all | | |
+| AI1 | Model id pinned, choice written down | G | | |
+| AI2 | System prompt versioned in repo: role, never-do list, hand-off | G | | |
+| AI3 | Answers grounded in business docs; "I don't know" + hand-off when nothing found | G | | |
+| AI4 | Actions are typed tools with limits; confirm before money or irreversible steps | G | | |
+| AI5 | Tool handlers check role; low-role test asking for high-role data refused | G | | |
+| AI6 | Injection test (message + doc) refused and logged; output checks; bulk actions pause | G | | |
+| AI7 | Prompt cache, answer cache, small-model router, spend caps + alert | G | | |
+| AI8 | Every conversation traced (prompt version, docs, tools, cost); weekly review | G | | |
+| AI9 | Eval set in CI on prompt/model/doc/tool changes; drop blocks deploy; prompt rollback | G | | |
 
 ## Owner actions
 
